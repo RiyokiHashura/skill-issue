@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/skill-issue/static/css/main.da8cc306.css",
-    "main.js": "/skill-issue/static/js/main.cec40b6d.js",
-    "index.html": "/skill-issue/index.html",
-    "main.da8cc306.css.map": "/skill-issue/static/css/main.da8cc306.css.map",
-    "main.cec40b6d.js.map": "/skill-issue/static/js/main.cec40b6d.js.map"
+    "main.css": "/static/css/main.da8cc306.css",
+    "main.js": "/static/js/main.f25d396d.js",
+    "index.html": "/index.html",
+    "main.da8cc306.css.map": "/static/css/main.da8cc306.css.map",
+    "main.f25d396d.js.map": "/static/js/main.f25d396d.js.map"
   },
   "entrypoints": [
     "static/css/main.da8cc306.css",
-    "static/js/main.cec40b6d.js"
+    "static/js/main.f25d396d.js"
   ]
 }
